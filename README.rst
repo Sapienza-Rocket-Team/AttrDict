@@ -28,13 +28,13 @@ objects::
 
 Installation
 ============
-AttrDict is in PyPI, so it can be installed directly using::
+AttrDict is not in PyPI, so it can be installed directly from gh using::
 
-    $ pip install attrdict
+    $ pip install git+https://github.com/Sapienza-Rocket-Team/AttrDict
 
 Or from Github::
 
-    $ git clone https://github.com/bcj/AttrDict
+    $ git clone https://github.com/Sapienza-Rocket-Team/AttrDict.git
     $ cd AttrDict
     $ python setup.py install
 

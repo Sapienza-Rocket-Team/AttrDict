@@ -1,7 +1,7 @@
 """
 A right-favoring Mapping merge.
 """
-from collections import Mapping
+from typing import Mapping
 
 
 __all__ = ['merge']
