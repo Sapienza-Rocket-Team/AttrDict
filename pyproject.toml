@@ -1,16 +1,3 @@
-[project]
-    name = 'attrdict'
-    version = '2.1.0'
-    authors = [
-        'Brendan Curran-Johnson <brendan@bcjbcj.ca>',
-        'ENDERZOMBI102 <enderzombi102.end@gmail.com>'
-    ]
-    packages = ['attrdict']
-    license = 'MIT'
-    description = 'A dict with attribute-style access'
-
-
-
 [tool.poetry]
     name = 'attrdict'
     version = '2.1.0'
