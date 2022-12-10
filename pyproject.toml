@@ -1,13 +1,11 @@
 [project]
     name = 'attrdict'
     version = '2.1.0'
-    author = 'Brendan Curran-Johnson, ENDERZOMBI102'
-    author_email = 'brendan@bcjbcj.ca, enderzombi102.end@gmail.com'
+    authors = ['Brendan Curran-Johnson <brendan@bcjbcj.ca>', 'ENDERZOMBI102 <enderzombi102.end@gmail.com>']
     packages = ['attrdict']
-    url = 'https://github.com/bcj/AttrDict'
-    license = 'MIT License'
+    repository = 'https://github.com/Sapienza-Rocket-Team/AttrDict'
+    license = 'MIT'
     description = 'A dict with attribute-style access'
-    long_description = 'A dict with attribute-style access'
     classifiers = [
         "Development Status :: 7 - Inactive",
         "Intended Audience :: Developers",
@@ -18,4 +16,3 @@
         "Programming Language :: Python :: Implementation :: CPython",
         "Programming Language :: Python :: Implementation :: PyPy",
     ]
-    zip_safe = true
