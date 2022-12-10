@@ -1,0 +1,21 @@
+[project]
+    name = 'attrdict'
+    version = '2.1.0'
+    author = 'Brendan Curran-Johnson, ENDERZOMBI102'
+    author_email = 'brendan@bcjbcj.ca, enderzombi102.end@gmail.com'
+    packages = ['attrdict']
+    url = 'https://github.com/bcj/AttrDict'
+    license = 'MIT License'
+    description = 'A dict with attribute-style access'
+    long_description = 'A dict with attribute-style access'
+    classifiers = [
+        "Development Status :: 7 - Inactive",
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: Implementation :: CPython",
+        "Programming Language :: Python :: Implementation :: PyPy",
+    ]
+    zip_safe=True,
